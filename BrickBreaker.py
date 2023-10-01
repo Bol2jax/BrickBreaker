@@ -1,7 +1,7 @@
 '''
 Created on Feb 26, 2021
 
-@author: martinyanev
+@author: bolr2jax
 '''
 import tkinter as tk
 
